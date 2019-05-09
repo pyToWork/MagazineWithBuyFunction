@@ -1,4 +1,7 @@
 # MagazineWithBuyFunction
-Реализован магазин под инвайт окно с репозитория https://github.com/pyToWork/InvaiteWindowForMagazineWithDataBase (окно с базой данных для сбора горячиих клиентов) 
-Тут есть полный контроль админ панели и всех бизнесс процесов (log : admin pass: admin1245)
+Р РµР°Р»РёР·РѕРІР°РЅ РјР°РіР°Р·РёРЅ РїРѕРґ РёРЅРІР°Р№С‚ РѕРєРЅРѕ СЃ СЂРµРїРѕР·РёС‚РѕСЂРёСЏ https://github.com/pyToWork/InvaiteWindowForMagazineWithDataBase (РѕРєРЅРѕ СЃ Р±Р°Р·РѕР№ РґР°РЅРЅС‹С… РґР»СЏ СЃР±РѕСЂР° РіРѕСЂСЏС‡РёРёС… РєР»РёРµРЅС‚РѕРІ) 
+РўСѓС‚ РµСЃС‚СЊ РїРѕР»РЅС‹Р№ РєРѕРЅС‚СЂРѕР»СЊ Р°РґРјРёРЅ РїР°РЅРµР»Рё Рё РІСЃРµС… Р±РёР·РЅРµСЃСЃ РїСЂРѕС†РµСЃРѕРІ (log : admin pass: admin1245)
 pip install -r requirements.txt
+back-end(python,django)
+Front-end(js,html,css  na bootstrape)
+РЎРЈР‘Р” : sqlite3
